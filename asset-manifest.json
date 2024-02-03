@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Blood_Bank_Live_Site/static/css/main.7904cbde.css",
-    "main.js": "/Blood_Bank_Live_Site/static/js/main.9fb065a5.js",
+    "main.js": "/Blood_Bank_Live_Site/static/js/main.c5ab8354.js",
     "static/js/787.0b7f935b.chunk.js": "/Blood_Bank_Live_Site/static/js/787.0b7f935b.chunk.js",
     "static/media/main-banner.png": "/Blood_Bank_Live_Site/static/media/main-banner.5db32061992950fef57b.png",
     "static/media/fa-solid-900.ttf": "/Blood_Bank_Live_Site/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
@@ -16,11 +16,11 @@
     "static/media/fa-v4compatibility.woff2": "/Blood_Bank_Live_Site/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/Blood_Bank_Live_Site/index.html",
     "main.7904cbde.css.map": "/Blood_Bank_Live_Site/static/css/main.7904cbde.css.map",
-    "main.9fb065a5.js.map": "/Blood_Bank_Live_Site/static/js/main.9fb065a5.js.map",
+    "main.c5ab8354.js.map": "/Blood_Bank_Live_Site/static/js/main.c5ab8354.js.map",
     "787.0b7f935b.chunk.js.map": "/Blood_Bank_Live_Site/static/js/787.0b7f935b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7904cbde.css",
-    "static/js/main.9fb065a5.js"
+    "static/js/main.c5ab8354.js"
   ]
 }
